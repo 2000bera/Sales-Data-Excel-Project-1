@@ -42,9 +42,13 @@ The dataset includes the following features:
 ## Key Insights
 
 **Average Price**: ~R22,690
+
 **Transmission Trends**: Automatic and Semi-Automatic cars dominate the market
+
 **Depreciation Effect**: Higher mileage vehicles tend to have lower prices
+
 **Fuel Preference**: Diesel vehicles appear frequently, cause of efficiency-focused buyers
+
  **Market Positioning**: Most vehicles fall within the mid-range price category
 
 ---
