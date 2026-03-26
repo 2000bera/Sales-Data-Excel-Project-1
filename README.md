@@ -1,5 +1,11 @@
 # BMW Sales Data Analysis Dashboard
 
+## Data source
+
+Kaggle site - 
+
+---
+
 ## Project Overview
 
 This project analyzes BMW car sales data to uncover key insights into pricing, vehicle characteristics, and market trends. The goal is to transform raw data into meaningful insights using Excel and build an interactive dashboard for decision-making.
